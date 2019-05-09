@@ -1,4 +1,6 @@
+//
 // Closures
+//
 
 // Basic example of nested scopes
 const powerLevel = "over 9000"
@@ -31,7 +33,17 @@ const newCounter = counter()
 
 
 
+
+
+
+
+
+
+
+
+//
 // Arrow methods
+//
 
 // >>> Understanding explicit and implicit return and function scope
 const returnAndCurlies = () => {
@@ -48,7 +60,22 @@ const noReturnOrCurlies = () => console.log("I'm the second, with no return or c
 // noReturnOrCurlies()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
 // >>> passing parameters
+//
 // Why use parentheses?
 
 let sampleSentence = "Hello"
@@ -63,7 +90,26 @@ const withParens = sampleSentence => {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//
 // >>> Array methods
+//
 const pets = [
   {
     'name': 'Tinkerbell',
